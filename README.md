@@ -28,6 +28,6 @@ for example ```/setbuildarea 100 20 100 350 20 350```  means my build area start
  
 Once the build area is set and your location in the game is around the build area, form your terminal run the command 
 
-```python GDMC_AhammadBourden.py```  
+```python GDMC_minecraft.py```  
 
 then you can see the settelement is getting build inside the build area.
