@@ -30,4 +30,4 @@ Once the build area is set and your location in the game is around the build are
 
 ```python GDMC_minecraft.py```  
 
-then you can see the settelement is getting build inside the build area.
+then you can see the settlement start to build inside the build area.
