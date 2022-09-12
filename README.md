@@ -8,7 +8,6 @@
 
 ## Project Videos:
 
-* Project Demo: https://youtu.be/P8lJo4-eW_w
 * Project Trailer: https://www.youtube.com/watch?v=Zp_mu0TJNpQ
 * Project  Presentation: https://www.youtube.com/watch?v=70leJTmWrSI
 
